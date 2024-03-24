@@ -1,10 +1,30 @@
-<h1 align="center">Hi 👋, I'm Michell Matias Tello</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+👋,+I'm+Michell+%3C3;Nice+to+meet+you🌻!!!;Welcome+to+my+profile!" alt="Title"></img>
+</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
+<br/>
 
-<img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
+<div align="center">
+  <img align="center" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=h-fares&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
+<br/>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+- :credit_card: My full name is **Michell Matias Tello** 
+- :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
+- :books: My major is **Software Engineering**
+- :earth_asia: I'm living now in **Lima, Perú**
+- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
+- :monocle_face: I'm interested in coding, art, and watching film
+- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
+- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+
+
+
+
 
 
 
