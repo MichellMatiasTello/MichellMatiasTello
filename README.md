@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img align="center" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  <img align="center" top="480" height="250" width="380" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
   
 </div>
 
