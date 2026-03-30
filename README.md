@@ -3,6 +3,7 @@
   </h2>
 </h2>
 </h2>
+
 ##   **About me**
 
 - :credit_card: My full name is **Michell Matias Tello** 
@@ -38,7 +39,7 @@
    <img src="https://img.shields.io/badge/Gestión de Proyectos%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <br />
 
-##   About Some Stats
+<!--##   About Some Stats
 <div align="center">
 </div>
 <div align="center">
