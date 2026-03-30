@@ -4,25 +4,15 @@
 
 <br/>
 
-<div align="center">
-  <img align="center" top="480" height="250" width="380" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
-  
-</div>
 
 <br/>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - :credit_card: My full name is **Michell Matias Tello** 
-- :school: I'm currently an nineth year student at the **National University of Engineering**
+- :school: I'm currently an tenth year student at the **National University of Engineering**
 - :books: My specialty is **Statistical Engineering**
 - :earth_asia: I'm living now in **Lima, Perú**
-- 🔰 Passionate about data analysis.
-- 😉 Currently learning about Web3 and Blockchain through a Bootcamp
-- :monocle_face: I'm interested in coding, art, and watching film
-- :sunglasses: My quote is ***"It's never too late to start again: every day is an opportunity to grow and share new experiences."*** 
-- :ok_hand: Fun fact: I love cats
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
@@ -63,7 +53,8 @@
 </div>
 <!--Contact Section--> 
 
-<h2 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+<h2 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let’s Work Together! >img
+  src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michell.kmt@gmail.com)
@@ -77,6 +68,6 @@
 ------
 
 <div align="center">
-  Thanks for watching my profile! Have a nice day!
+  Thanks for watching my profile! Have a nice day! />
   &copy; 2026 Michell Matias Tello
 </div> 
