@@ -3,7 +3,7 @@
   
 </h2>
 
-##  **About me**
+##   **About me**
 
 - :credit_card: My full name is **Michell Matias Tello** 
 - :school: I'm currently an tenth year student at the **National University of Engineering**
@@ -38,7 +38,7 @@
    <img src="https://img.shields.io/badge/Gestión de Proyectos%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <br />
 
-##  About Some Stats
+##   About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
@@ -64,6 +64,7 @@
 ------
 
 <div align="center">
-  Thanks for watching my profile! Have a nice day!/>
+  Thanks for watching my profile! Have a nice day!</h2>
+  <div align="center">
   &copy; 2026 Michell Matias Tello
 </div> 
