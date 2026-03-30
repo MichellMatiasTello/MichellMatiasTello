@@ -1,8 +1,8 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+👋,+I'm+Michell;Nice+to+meet+you🌻!!!;Welcome+to+my+profile!" alt="Title"></img>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+👋,+I'm+Michell;Nice+to+meet+you!!!;Welcome+to+my+profile!" alt="Title"></img>
+  </h2>
 </h2>
-
+</h2>
 ##   **About me**
 
 - :credit_card: My full name is **Michell Matias Tello** 
