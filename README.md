@@ -9,7 +9,7 @@
 - :credit_card: My full name is **Michell Matias Tello** 
 - :school: I'm currently an tenth year student at the **National University of Engineering**
 - :books: My specialty is **Statistical Engineering**
-- :earth_asia: I'm living now in **Lima, Perú**
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
