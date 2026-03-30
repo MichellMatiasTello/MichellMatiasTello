@@ -4,10 +4,7 @@
 
 <br/>
 
-
-<br/>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "" width = 50px></picture> **About me**
 
 - :credit_card: My full name is **Michell Matias Tello** 
 - :school: I'm currently an tenth year student at the **National University of Engineering**
@@ -42,7 +39,7 @@
    <img src="https://img.shields.io/badge/Gestión de Proyectos%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <br />
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+## <img src="hcid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
@@ -53,7 +50,7 @@
 </div>
 <!--Contact Section--> 
 
-<h2 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let’s Work Together! >img
+<h2 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let’s Work Together! <img
   src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <div align="center">
 
@@ -68,6 +65,6 @@
 ------
 
 <div align="center">
-  Thanks for watching my profile! Have a nice day! />
+  Thanks for watching my profile! Have a nice day!/>
   &copy; 2026 Michell Matias Tello
 </div> 
