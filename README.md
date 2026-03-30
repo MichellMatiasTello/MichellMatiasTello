@@ -40,8 +40,6 @@
 
 ##   About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
@@ -66,5 +64,6 @@
 <div align="center">
   Thanks for watching my profile! Have a nice day!</h2>
   <div align="center">
+    <div align="center">
   &copy; 2026 Michell Matias Tello
 </div> 
